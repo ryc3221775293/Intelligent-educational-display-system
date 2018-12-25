@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="enum_Classroom">
+        <item>None </item>
+        <item>DML307 </item>
+        <item>DML308 </item>
+        <item>DML309 </item>
+        <item>DML310 </item>
+        <item>DML311 </item>
+        <item>DML312 </item>
+        <item>DML313 </item>
+    </string-array>
+    <string-array name="enum_Lecture">
+        <item>None </item>
+        <item>DML307 </item>
+        <item>DML308 </item>
+        <item>DML309 </item>
+        <item>DML310 </item>
+        <item>DML311 </item>
+        <item>DML312 </item>
+        <item>DML313 </item>
+    </string-array>
+	
+</resources>
